@@ -1,2 +1,6 @@
 # hello-world
-First git repository
+
+Hi,
+
+Skills: C, C++, Java. 
+Testing GitHub now...
